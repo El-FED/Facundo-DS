@@ -1,2 +1,4 @@
 # DS-Projects
-This repository contains my data science projects.
+## Facundo's Data Science Projects
+This repository contains the following projects:
+  -Pharma Quality Prediction
