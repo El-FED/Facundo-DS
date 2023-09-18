@@ -5,20 +5,23 @@ These projects cover a wide range of topics and showcase my skills in data analy
 
 ## Table of Contents
 
-- [Project 1: Pharma Quality Project](#pharma-quality-project)
+- [Pharma Quality Project](#pharma-quality-project)
 - [Project 2: Project Name](#project-2-project-name)
 - [Project 3: Project Name](#project-3-project-name)
 - [How to Navigate This Repository](#how-to-navigate-this-repository)
 - [Contact Information](#contact-information)
 
-## Project 1: Pharma Quality Project
+## Pharma Quality Project
 
-- **Description**: Briefly describe the project, including the problem you aimed to solve and the data used.
-- **Technologies Used**: List the programming languages, libraries, and tools used in this project.
+- **Description**: In this project, we leverage production data to proactively forecast product quality during manufacturing, ultimately conserving resources by avoiding products that fail to meet stringent quality criteria.
+- **Technologies Used**: I used Python, along with the following libraries:
+Pandas
+Scikit-Learn
+NumPy
+Matplotlib
+Seaborn
 - **Key Results**: Summarize the key findings, insights, or outcomes of the project.
-- **Link to Project Folder**: Provide a link to the folder or file containing the project code and detailed documentation.
-
-[Link to Project 1](/Pharma-Quality-Prediction/)
+- **Link to Project Folder**: [Link to Project 1](/Pharma-Quality-Prediction/)
 
 ## Project 2: Project Name
 
@@ -29,7 +32,6 @@ These projects cover a wide range of topics and showcase my skills in data analy
 
 [Link to Project 2](project2_folder/project2.ipynb)
 
-(Repeat this section for each project you want to showcase.)
 
 ## How to Navigate This Repository
 
@@ -39,8 +41,8 @@ These projects cover a wide range of topics and showcase my skills in data analy
 
 ## Contact Information
 
-- **Name**: Your Name
-- **LinkedIn**: [Link to your LinkedIn profile](https://www.linkedin.com/yourprofile)
+- **Name**: Facundo A. Espina
+- **LinkedIn**: [Link to your LinkedIn profile](https://www.linkedin.com/in/facundo-agustin-espina/)
 - **Email**: your.email@example.com
 
 Feel free to explore the projects and reach out if you have any questions or would like to collaborate on a data science project.
