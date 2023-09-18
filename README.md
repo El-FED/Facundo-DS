@@ -21,7 +21,8 @@ NumPy
 Matplotlib
 Seaborn
 - **Key Results**: Summarize the key findings, insights, or outcomes of the project.
-- **Link to Project Folder**: [Link to Project 1](/Pharma-Quality-Prediction/)
+- **Link to Project Folder**:
+  [Link to Project](/Pharma-Quality-Prediction/)
 
 ## Project 2: Project Name
 
