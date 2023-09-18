@@ -28,3 +28,8 @@ The project is organized into the following folders:
 - [**notebooks/**](notebooks/): Includes Jupyter Notebook(s) or Python script(s) with the project's code.
 - [**visualizations/**](visualizations/): Stores visualizations and plots generated during analysis.
 - [**documentation/**](documentation/): Provides any additional project documentation or reports.
+
+## Source
+
+Additional detailes and more information can be found in the source URL:
+https://figshare.com/collections/Cholessterol-Lowering_Drug_Process_and_Quality_Data/5645578/3
