@@ -18,7 +18,7 @@ These projects cover a wide range of topics and showcase my skills in data analy
 - **Key Results**: Summarize the key findings, insights, or outcomes of the project.
 - **Link to Project Folder**: Provide a link to the folder or file containing the project code and detailed documentation.
 
-[Link to Project 1](project1_folder/project1.ipynb)
+[Link to Project 1](Facundo-DS/Pharma Quality Project/)
 
 ## Project 2: Project Name
 
