@@ -22,11 +22,9 @@ In this project, I leverage production data to proactively forecast the quality 
 
 ## Project Structure
 
-The project folder is structured as follows:
+The project is organized into the following folders:
 
-- `data/`: Contains the dataset(s) used for analysis.
-- `notebooks/`: Includes Jupyter Notebook(s) or Python script(s) with the project's code.
-- `visualizations/`: Stores visualizations and plots generated during analysis.
-- `documentation/`: Provides any additional project documentation or reports.
-
-
+- [**data/**](data/): Contains the dataset(s) used for analysis.
+- [**notebooks/**](notebooks/): Includes Jupyter Notebook(s) or Python script(s) with the project's code.
+- [**visualizations/**](visualizations/): Stores visualizations and plots generated during analysis.
+- [**documentation/**](documentation/): Provides any additional project documentation or reports.
