@@ -14,12 +14,7 @@ These projects cover a wide range of topics and showcase my skills in data analy
 ## Pharma Quality Project
 
 - **Description**: In this project, we leverage production data to proactively forecast product quality during manufacturing, ultimately conserving resources by avoiding products that fail to meet stringent quality criteria.
-- **Technologies Used**: I used Python, along with the following libraries:
-Pandas
-Scikit-Learn
-NumPy
-Matplotlib
-Seaborn
+- **Technologies Used**: I used Python, along with the following libraries: Pandas, Scikit-Learn, NumPy, Matplotlib & Seaborn
 - **Key Results**: Summarize the key findings, insights, or outcomes of the project.
 - **Link to Project Folder**:
   [Link to Project](/Pharma-Quality-Prediction/)
