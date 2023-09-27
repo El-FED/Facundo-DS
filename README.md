@@ -15,7 +15,7 @@ These projects cover a wide range of topics and showcase my skills in data analy
 
 - **Description**: In this project, we leverage production data to proactively forecast product quality during manufacturing, ultimately conserving resources by avoiding products that fail to meet stringent quality criteria.
 - **Technologies Used**: I used Python, along with the following libraries: Pandas, Scikit-Learn, NumPy, Matplotlib & Seaborn
-- **Key Results**: Summarize the key findings, insights, or outcomes of the project.
+- **Key Results**: Achieved a predictive accuracy with a Mean Absolute Error (MAE) of 0.034 in estimating the total impurities of each batch. This holds great significance within the pharmaceutical industry, as it directly translates into substantial resource savings. By leveraging our predictive model, we can promptly identify batches that are unlikely to meet the quality criteria, leading to significant resource savings.
 - **Link to Project Folder**:
   [Link to Project](/Pharma-Quality-Prediction/)
 
