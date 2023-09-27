@@ -9,16 +9,16 @@ In this project, I leverage production data to proactively forecast the quality 
 ## Project Details
 
 - **Technologies Used**:
-  - Python
+  - Python: 3.10.11
   - Libraries:
-    - Pandas
-    - Scikit-Learn
-    - NumPy
-    - Matplotlib
-    - Seaborn
+    - Pandas: 1.5.3
+    - Scikit-Learn: 1.2.2
+    - NumPy: 1.22.4
+    - Matplotlib: 3.7.1
+    - Seaborn: 0.12.2
 
 - **Key Findings**:
-  - [Summarize key findings and insights from the project.]
+  - Achieved a predictive accuracy with a Mean Absolute Error (MAE) of 0.034 in estimating the total impurities of each batch. This holds great significance within the pharmaceutical industry, as it directly translates into substantial resource savings. By leveraging our predictive model, we can promptly identify batches that are unlikely to meet the quality criteria, leading to significant resource savings.
 
 ## Project Structure
 
